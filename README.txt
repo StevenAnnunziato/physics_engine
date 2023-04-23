@@ -1,4 +1,4 @@
-This is a physics engine built on top of the Unity engine. Features:
+This is a physics engine built using Unity's renderer, but not using any existing physics systems within the engine. Features:
 - Spheres
 - Axis-aligned bounding boxes (AABBs)
 - Planes
